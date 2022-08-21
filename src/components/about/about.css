@@ -96,4 +96,8 @@
   .a-right{
     padding: 20px;
   }
+
+  .a-img{
+    object-fit: contain;
+  }
 }
