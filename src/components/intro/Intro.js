@@ -11,8 +11,8 @@ function Intro() {
             <h1 className="i-name">Raj kumar</h1>
             <div className="i-title">
                 <div className="i-title-wrapper">
-                    <div className="i-title-item">Web Developer</div>
-                    <div className="i-title-item">UI/UX Designer</div>
+                    <div className="i-title-item">Senior Web Developer</div>
+                    <div className="i-title-item">Frontend Developer</div>
                     <div className="i-title-item">Full Stack Developer</div>
                     <div className="i-title-item">Web Designer</div>
                     <div className="i-title-item">Wordpress Developer</div>

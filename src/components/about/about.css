@@ -55,6 +55,8 @@
 
 .a-desc{
     font-weight: 300;
+    text-align: justify;
+    margin-right: 30px;
 }
 
 .a-award{
