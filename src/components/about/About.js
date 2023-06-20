@@ -23,7 +23,7 @@ function About() {
            <a href="https://www.linkedin.com/in/rajkumar-ramasamy-7409ba226/" target='_blank' rel='noreferrer'><FaLinkedin/></a>
           </div>
         </div>
-        <a href="https://drive.google.com/file/d/19HhTljmyO6qlW1QouZD_zRGgsJHSDY7B/view?usp=drive_link" target='_blank' rel="noreferrer"><button className='resume-btn'>Resume</button></a>
+        <a href="https://drive.google.com/file/d/1_C2v0WzywyZXf-bItQIySoFRK1vyCMxY/view?usp=drive_link" target='_blank' rel="noreferrer"><button className='resume-btn'>Resume</button></a>
       </div>
     </div>
   )
