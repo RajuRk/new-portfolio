@@ -2,6 +2,8 @@ import React, { useRef, useState, useContext} from 'react'
 import Address from '../../img/address.png'
 import Email from '../../img/email.png'
 import Phone from '../../img/phone.png'
+import Github from '../../img/github.png'
+import LinkedIn from '../../img/linkedin.png'
 import './contact.css'
 import emailjs from "emailjs-com";
 import { ThemeContext } from '../../Context'
@@ -41,6 +43,12 @@ function Contact() {
            <div className="c-left">
              <h1 className="c-title">Let's discuss your project</h1>
              <div className="c-info">
+                <div className="c-info-item">
+                    <img src={Github} alt="" className="c-icon"/> https://github.com/RajuRk
+                </div>
+                <div className="c-info-item">
+                    <img src={LinkedIn} alt="" className="c-icon"/> https://www.linkedin.com/in/rajkumar-ramasamy-7409ba226
+                </div>
                 <div className="c-info-item">
                     <img src={Phone} alt="" className="c-icon"/> +91 978 835 1283
                 </div>

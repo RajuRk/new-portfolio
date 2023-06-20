@@ -76,6 +76,35 @@
     margin-bottom: 10px;
 }
 
+.profile-links{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+
+.git-icons svg,
+.linkedin-icon svg{
+  font-size: 25px;
+  padding-right: 15px;
+  color: #293462;
+}
+
+.git-icons svg:hover,
+.linkedin-icon svg:hover{
+  color: #000;
+}
+
+.resume-btn{
+  padding: 10px 30px;
+  margin: 10px 0px;
+  border-radius: 5px;
+}
+
+.resume-btn:hover{
+  background-color: #222;
+}
+
 @media screen and (max-width:480px) {
   .a{
     flex-direction: column;
