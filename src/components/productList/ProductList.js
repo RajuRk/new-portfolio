@@ -128,7 +128,9 @@ function ProductList() {
         </div>
         <div className="pl-texts">
            <h1 className="pl-title">Projects</h1>
-           {/* <p className="pl-desc">Lama is a creative portfolio that your work has been waiting for. Beautiful homes, stunning portfolio styles & a whole lot more awaits inside.</p> */}
+           <p><strong>Credentials</strong></p>
+           <p><strong>Blog: </strong> Username: raju | Password: raju</p>
+           <p><strong>Netflix Clone: </strong> Username: rajkumarpragmatic@gmail.com | Password: 123456</p>
         </div>
         <div className="pl-list">
            {
